@@ -1,58 +1,48 @@
-<div align="center"><a href="https://github.com/UncomplicatedCustomServer/UncomplicatedCustomRoles/releases/latest"><img src="https://img.shields.io/github/v/release/UncomplicatedCustomServer/UncomplicatedCustomRoles"></a> <a href="https://github.com/UncomplicatedCustomServer/UncomplicatedCustomRoles/releases/latest"><img src="https://img.shields.io/github/downloads/UncomplicatedCustomServer/UncomplicatedCustomRoles/total"></a> <a href="https://github.com/UncomplicatedCustomServer/UncomplicatedCustomRoles/pulls"><img src="https://img.shields.io/github/issues-pr/UncomplicatedCustomServer/UncomplicatedCustomRoles"></a> <a href="https://github.com/UncomplicatedCustomServer/UncomplicatedCustomRoles/pulls"><img src="https://img.shields.io/github/issues-pr-closed/UncomplicatedCustomServer/UncomplicatedCustomRoles"></a> <a href="https://github.com/UncomplicatedCustomServer/UncomplicatedCustomRoles/commits/main/"><img src="https://badgen.net/github/commits/UncomplicatedCustomServer/UncomplicatedCustomRoles/main"></a> <img src="https://img.shields.io/badge/Verified_Exiled_Plugin-ss">
+  <h1>HelpSense</h1>
+  <i>一个集各种功能为一身的实用插件，只需一个插件就能解决你的烦恼！</i>
 
-  <h1>UncomplicatedCustomRoles</h1>
-  <i>Easy, fully configurable and customizable custom roles for your SCP:SL Server!</i>
-
-  <br><br>
-    <img src="https://ucs.fcosma.it/api/v2/ucr/graph/black">
-  <br><br>
-    <a href='https://discord.gg/5StRGu8EJV'><img src='https://www.allkpop.com/upload/2021/01/content/262046/1611711962-discord-button.png' height="100"></a>
-  <br><br>
-</div>
-
-**EXILED** >= `v8.9.6`
+**NwAPI**
 <br><br>
 
-## Localized READMEs
-- [Français](https://github.com/UncomplicatedCustomServer/UncomplicatedCustomRoles/blob/main/Localization/README-FR.md)
-- [Italiano](https://github.com/UncomplicatedCustomServer/UncomplicatedCustomRoles/blob/main/Localization/README-IT.md)
-- [Russian](https://github.com/UncomplicatedCustomServer/UncomplicatedCustomRoles/blob/main/Localization/README-RU.md)
+## HelpSense是什么类型的插件？
+**HelpSense** 是一个集各种实用功能的免费插件，用超稳定的 **NwAPI** 编写。\
+您可以通过安装该插件获得原版游戏没有的许多新功能。
 
-## What's UncomplicatedCustomRoles
-**UncomplicatedCustomRoles** or **UCR** is a plugin for [EXILED](https://github.com/Exiled-Team/EXILED) that allow you to create fully configurable and customizable custom role with YAML.\
-You'll be able to configure the <ins>role</ins>, the <ins>health</ins>, the <ins>role after escape</ins> and many more things. 
+## 功能
+**HelpSense** 有许多功能，例如：
+- 聊天系统（.bc .c）
+- 服务器扫地机（清除无用尸体和无用物品减轻服务器负担）
+- 多变保安队（开局保安概率变为精英或叛变，else普通保安队但是会有一个队长）
+- 感应卡（妈妈再也不用担心我玩电炮的时候被关权限房了）
+- 回合刷新票数、时间、点半、核弹显示（快刷了的说！）
+- 回合开始前你可以待在地图的任何地方（不用面对枯燥的等待界面了的说！）
+- .ac私聊管理（有人违规？有人开挂？.ac告诉管理制裁他!）
+- 自定义服务器广播（想让玩家加群？自定义广播可以解决你的烦恼！）
+- 无限子弹（玩家总是抱怨子弹不够用？无限子弹解决你的烦恼！SCP：我上早八！）
+- 机动特遣队Kappa-10 “Skynet”-天网（079打不过？对不起，天网特遣队自带鬼灯甚至会加快电报启动时间）
+- 回合结束内斗（普通的回合结束太无趣？结束回合变成可以自定义的角色互相残杀！）
+- 观察者显示（你总感觉有人在阴间看着你？这个功能能让你知道有谁在看你）
+- 自救指令（不小心卡bug掉入虚空？.ZiJiu救你一命）
+- 练枪大厅（开局还是太过无聊？在练枪大厅试试枪吧）
+- 玩家信息查询（想知道你在服务器总共玩了多长时间，或者杀了多少人？.info试试？）
+- 非礼勿视特遣队（每次玩九尾都不小心看到96，成为非礼勿视特遣队可以看个够！）
+- SCP血量系统（SCP太弱了？加亿点血量吧）
+- 地表大改造（原版地表不好看？待我来改造一番）
+- DD开局给卡（DD太废物了？连个东西都没有，我来助你！）
+- SCP-703（这个插件角色很酷的说，居然能无中生有）
+- SCP-029（DD升级版真的是太酷了）
+- SCP-1056（看着像医疗包一用就成萝莉力）
+- SCP-1068（看着像鬼灯，一用就核弹“炸”了，但是没有完全炸）
+- 混沌领导者（我们混沌大军需要一个领导者，他因该有最好的装备）
+- SCP-191（79被收容了，结束了？不！并没有，子弹高抗性SCP突破收容了）
+- SCP-073（需要我帮忙？我同意，我的减伤不是开玩笑的，还有反伤）
+- SCP-347（我就在你的身边哦~）
+- SCP-1093（一个人顶着一盏灯？好难受，他好像没有头）
 
-## Features
-**UCR** has lots of features like:
-- Unlimited number of custom roles
-- Configs are in a separate file, not the EXILED default one
-- Exhaustive [wiki](https://github.com/UncomplicatedCustomServer/UncomplicatedCustomRoles/wiki)
-- No dependencies required
-- Active community on **Discord**
-- __Special privileges and previews__ for verified server owners
-- In-game commands to handle the plugin and the roles
 
-## Installation
-Download the `UncomplicatedCustomRoles.dll` from the [latest release](https://github.com/UncomplicatedCustomServer/UncomplicatedCustomRoles/releases/latest) and put it inside the `EXILED/Plugins` folder.
+## 安装插件
+ 下载 **HelpSense.dll** 放进`\PluginAPI\plugins\glabol` .
 
-## Developers
-UncomplicatedCustomRoles has an easy and fast API system for developers to use our plugin.
-We have created lots of examples in the [developers wiki](https://github.com/UncomplicatedCustomServer/UncomplicatedCustomRoles/wiki/Developers-World)
-
-## Having skill issues?
-Read the [WIKI](https://github.com/UncomplicatedCustomServer/UncomplicatedCustomRoles/wiki) and if you still can't fix the problem you can ask to the community on our [Discord server](https://discord.gg/5StRGu8EJV)!
-
-## Contacts
-### UncomplicatedCustomRoles
-  **Discord:** [https://discord.gg/5StRGu8EJV](https://discord.gg/5StRGu8EJV)
-
-### FoxWorn3365
-  **Discord:** `@foxworn`\
-  **Email:** `foxworn3365@gmail.com`
-### Dr.Agenda
-  **Discord:** `dr.agenda`
-
-## Translation Credits
-**French:** `@robocnop`\
-**Italian:** `@foxworn`\
-**Russian:** `@naxefir`
+## 联系方式
+### X小左
+  **QQ:** 3298837494
